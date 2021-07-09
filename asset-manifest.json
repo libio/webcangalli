@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/webcangalli/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/webcangalli/static/js/main.3a2bc6f0.chunk.js",
+    "main.js.map": "/webcangalli/static/js/main.3a2bc6f0.chunk.js.map",
+    "runtime-main.js": "/webcangalli/static/js/runtime-main.2dd81ffe.js",
+    "runtime-main.js.map": "/webcangalli/static/js/runtime-main.2dd81ffe.js.map",
+    "static/css/2.52335619.chunk.css": "/webcangalli/static/css/2.52335619.chunk.css",
+    "static/js/2.34cb3596.chunk.js": "/webcangalli/static/js/2.34cb3596.chunk.js",
+    "static/js/2.34cb3596.chunk.js.map": "/webcangalli/static/js/2.34cb3596.chunk.js.map",
+    "static/js/3.5a5d4d23.chunk.js": "/webcangalli/static/js/3.5a5d4d23.chunk.js",
+    "static/js/3.5a5d4d23.chunk.js.map": "/webcangalli/static/js/3.5a5d4d23.chunk.js.map",
+    "index.html": "/webcangalli/index.html",
+    "static/css/2.52335619.chunk.css.map": "/webcangalli/static/css/2.52335619.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/webcangalli/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.34cb3596.chunk.js.LICENSE.txt": "/webcangalli/static/js/2.34cb3596.chunk.js.LICENSE.txt",
+    "static/media/Cangalli.1f3293ec.jpg": "/webcangalli/static/media/Cangalli.1f3293ec.jpg",
+    "static/media/estatuto.7bd4437f.pdf": "/webcangalli/static/media/estatuto.7bd4437f.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dd81ffe.js",
+    "static/css/2.52335619.chunk.css",
+    "static/js/2.34cb3596.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.3a2bc6f0.chunk.js"
+  ]
+}
